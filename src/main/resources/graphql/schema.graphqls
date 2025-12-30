@@ -8,4 +8,5 @@ type User {
     firstname: String
     sexe: String
     age: Int
+    email: String
 }
